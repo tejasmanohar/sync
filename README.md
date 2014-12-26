@@ -19,3 +19,7 @@ git rebase master
 git push origin gh-pages
 git checkout master
 ```
+
+## References
+
+https://gist.github.com/cassidoo/847854571d7fc155648c by [@cassidoo](https://github.com/cassidoo)
